@@ -9,13 +9,13 @@ body{
 .title-container {
     background-color: rgba(243, 149, 82, 0.888);
     padding: 8px;
-    width: 425px;
+    width: 381px;
     margin: 0 auto;
     border-radius: 10px;
 }
 
 .title {
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: "Times New Roman", Arial, sans-serif;
     font-size: 64px;
     margin: 0;
     padding: 0px;
